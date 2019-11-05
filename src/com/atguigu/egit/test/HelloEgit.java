@@ -6,6 +6,7 @@ public class HelloEgit {
 		System.out.println("Hello Egit");
 		System.out.println("更新1");
 		System.out.println("--更新2");
+		System.out.println("更新3");
 	}
 
 }
